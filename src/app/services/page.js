@@ -30,7 +30,7 @@ function page() {
     <div className="mx-auto grid justify-center gap-4 sm:grid-cols-2 md:max-w-[64rem] md:grid-cols-3">
 
       <div className="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2">
-        <div className="flex h-[180px] flex-col justify-between rounded-md p-6">
+        <div className="flex h-[180px] flex-col justify-between rounded-md p-6 shadow-2xl shadow-gray-700">
           <div className="space-y-2">
             <h3 className="font-bold">Website Development</h3>
             <p className="text-sm text-muted-foreground">Crafting dynamic and user-centric websites tailored to your brand&apos;s unique identity, ensuring seamless functionality and captivating design.</p>
@@ -39,7 +39,7 @@ function page() {
       </div>
 
       <div className="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2">
-        <div className="flex h-[180px] flex-col justify-between rounded-md p-6">
+        <div className="flex h-[180px] flex-col justify-between rounded-md p-6 shadow-2xl shadow-gray-700">
           <div className="space-y-2">
             <h3 className="font-bold">SEO Management</h3>
             <p className="text-sm">Boosting your online visibility and driving organic traffic through strategic SEO tactics, optimizing your website for higher search engine rankings and increased brand exposure.</p>
@@ -48,7 +48,7 @@ function page() {
       </div>
 
       <div className="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2">
-        <div className="flex h-[180px] flex-col justify-between rounded-md p-6">
+        <div className="flex h-[180px] flex-col justify-between rounded-md p-6 shadow-2xl shadow-gray-700">
           <div className="space-y-2">
             <h3 className="font-bold">Business Consultancy</h3>
             <p className="text-sm text-muted-foreground">Guiding businesses through challenges and opportunities with expert advice and strategic insights, empowering decision-makers to navigate complexities and achieve sustainable growth.</p>
@@ -57,7 +57,7 @@ function page() {
       </div>
 
       <div className="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2">
-        <div className="flex h-[180px] flex-col justify-between rounded-md p-6">
+        <div className="flex h-[180px] flex-col justify-between rounded-md p-6 shadow-2xl shadow-gray-700">
           <div className="space-y-2">
             <h3 className="font-bold">Digital Marketing</h3>
             <p className="text-sm text-muted-foreground">Executing result-driven digital marketing campaigns across diverse channels, leveraging data-driven strategies to enhance brand awareness, engage audiences, and drive conversions.</p>
@@ -66,7 +66,7 @@ function page() {
       </div>
 
       <div className="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2">
-        <div className="flex h-[180px] flex-col justify-between rounded-md p-6">
+        <div className="flex h-[180px] flex-col justify-between rounded-md p-6 shadow-2xl shadow-gray-700">
           <div className="space-y-2">
             <h3 className="font-bold">Data Analytics</h3>
             <p className="text-sm text-muted-foreground">Unleashing the power of data to derive actionable insights and make informed business decisions.</p>
@@ -75,7 +75,7 @@ function page() {
       </div>
 
       <div className="relative overflow-hidden rounded-lg border bg-white select-none hover:shadow hover:shadow-teal-200 p-2">
-        <div className="flex h-[180px] flex-col justify-between rounded-md p-6">
+        <div className="flex h-[180px] flex-col justify-between rounded-md p-6 shadow-2xl shadow-gray-700">
           <div className="space-y-2">
             <h3 className="font-bold">IT Solutions</h3>
             <p className="text-sm text-muted-foreground">Providing cutting-edge IT solutions to optimize infrastructure, enhance security, and drive technological advancement.</p>
