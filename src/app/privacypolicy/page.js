@@ -8,7 +8,7 @@ function page() {
             Privacy Policy
             </h1>
             <p className="mb-4">
-                At Digital Dynamo Services, we value the trust you place in us when you use our website and services. We are committed to protecting your privacy and the security of your personal information. This privacy policy outlines how we collect, use, disclose, and protect your information.
+                At NexGen Solutions, we value the trust you place in us when you use our website and services. We are committed to protecting your privacy and the security of your personal information. This privacy policy outlines how we collect, use, disclose, and protect your information.
             </p>
             <h1 className="mt-2 text-3xl font-black text-gray-700 md:text-5xl dark:text-gray-700 my-5">
             Information We Collect:
@@ -47,7 +47,7 @@ function page() {
             If you have any questions, concerns, or requests regarding our privacy practices or this policy, please contact us at contact@example.com.
             <br />
             <br />
-            Thank you for trusting Digital Dynamo Services with your personal information.
+            Thank you for trusting NexGen Solutions with your personal information.
             </p>
             <Link href='/'>
                 <button className="bg-transparent flex justify-center  hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded transition ease-in duration-700 my-16">

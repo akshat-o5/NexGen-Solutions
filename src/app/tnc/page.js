@@ -8,7 +8,7 @@ function page() {
             Terms and Conditions
             </h1>
             <p className="mb-4">
-            Welcome to Digital Dynamo Services! These Terms and Conditions govern your access to and use of our website and services. By accessing or using our website and services, you agree to comply with these Terms and Conditions and all applicable laws and regulations. If you do not agree with any part of these terms, please do not use our website or services.
+            Welcome to NexGen Solutions! These Terms and Conditions govern your access to and use of our website and services. By accessing or using our website and services, you agree to comply with these Terms and Conditions and all applicable laws and regulations. If you do not agree with any part of these terms, please do not use our website or services.
             </p>
             <h1 className="mt-2 text-3xl font-black text-gray-700 md:text-5xl dark:text-gray-700 my-5">
             Use of Our Services:
@@ -20,7 +20,7 @@ function page() {
             Intellectual Property:
             </h1>
             <p className="mb-4">
-            All content and materials available on our website, including but not limited to text, graphics, logos, images, videos, and software, are the property of Digital Dynamo Services or its licensors and are protected by copyright, trademark, and other intellectual property laws. You may not use, modify, reproduce, distribute, or transmit any content or materials from our website without prior written consent.
+            All content and materials available on our website, including but not limited to text, graphics, logos, images, videos, and software, are the property of NexGen Solutions or its licensors and are protected by copyright, trademark, and other intellectual property laws. You may not use, modify, reproduce, distribute, or transmit any content or materials from our website without prior written consent.
             </p>
             <h1 className="mt-2 text-3xl font-black text-gray-700 md:text-5xl dark:text-gray-700 my-5">
             Disclaimer of Warranties:
@@ -32,7 +32,7 @@ function page() {
             Limitation of Liability:
             </h1>
             <p className="mb-4">
-            Under no circumstances shall Digital Dynamo Services, its affiliates, partners, officers, directors, employees, agents, or licensors be liable for any direct, indirect, incidental, consequential, special, or punitive damages arising out of or in any way connected with your use of our website or services, even if advised of the possibility of such damages.
+            Under no circumstances shall NexGen Solutions, its affiliates, partners, officers, directors, employees, agents, or licensors be liable for any direct, indirect, incidental, consequential, special, or punitive damages arising out of or in any way connected with your use of our website or services, even if advised of the possibility of such damages.
             </p>
             <h1 className="mt-2 text-3xl font-black text-gray-700 md:text-5xl dark:text-gray-700 my-5">
             Changes to These Terms and Conditions
@@ -49,7 +49,7 @@ function page() {
 
             <br />
             <br />
-            Thank you for choosing Digital Dynamo Services!
+            Thank you for choosing NexGen Solutions!
             </p>
             <Link href='/'>
                 <button className="bg-transparent flex justify-center  hover:bg-blue-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded transition ease-in duration-700 my-16">
